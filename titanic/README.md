@@ -10,3 +10,7 @@ In this challenge, we ask you to complete the analysis of what sorts of people w
 
 `Decision trees`
 
+Add more details.
+
+Add more about grid search!
+
